@@ -1,0 +1,27 @@
+body{
+    background: url(https://unblast.com/wp-content/uploads/2021/01/Space-Background-Images.jpg);
+    background-repeat:no-repeat;
+    width: 100%;
+}
+.sardormamadaliyev{
+    display: flex;
+    text-align: center;
+}
+p{
+    font-size: 70px;
+    font-weight: initial;
+}
+.mg00{
+    display:grid;
+    text-align: center;
+    margin-left: 40%;
+}
+audio{
+    margin: 10px;
+    text-align: center;
+}
+.mg10{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(64, 37, 90);
+}
